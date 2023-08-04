@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1691144331~exp=1691144931~hmac=acbb71e48468081dbf630663aafb58c09bd76a564103cca7946d3af5b154edb0)
+![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)
 <h1 align="center">Hi 👋, I'm Nikitha Panda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
